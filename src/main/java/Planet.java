@@ -7,6 +7,7 @@ public class Planet {
 
     public String getName() {
         return name;
+
     }
 
 //    public String mars() {
